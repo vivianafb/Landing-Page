@@ -1,0 +1,68 @@
+
+.logo{
+	width: 130px;
+	margin:30px 0 30px 30px;	
+	float: left;
+}
+
+.header{
+	background-image: url("images_cv/bg.jpeg");
+	color: white;
+	height: 500px;
+	box-sizing: border-box;
+}
+
+.ul{
+	margin-bottom: 0px;
+	padding:0px;
+	margin-top: -30px
+
+}
+
+.lista{
+	list-style: none;
+	float: right;
+	padding: 15px;
+	
+}
+
+.row{
+	box-sizing: border-box;
+
+}
+
+.second{
+	margin-top: 70px;
+	height: 600px
+}
+
+.third{
+	text-align: center;
+	background-color: #ececec;	
+	height: 350px; 
+	box-sizing: border-box;
+}
+
+.people{	
+	height: 250px;
+	width: 250px
+}
+
+.fourthdiv{	
+	box-sizing: border-box;
+	height: 300px;
+	background-color: white;			
+}
+
+.footer{
+	margin-top: 50px;
+	background-color: #232323;		
+}
+
+.footertext{
+	margin-top: 10px;
+	font-family: Calibri;
+	font-weight: 100;
+	color: #ffffffd9;	
+}
+
